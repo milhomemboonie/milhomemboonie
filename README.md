@@ -1,4 +1,4 @@
-## 🖖 🏼Welcome aboard!
+## 🖖🏼Welcome aboard!
 
 
 - 🔭 Interesses: Astrofísica computacional, Machine Learning & Data Science
