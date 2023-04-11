@@ -3,7 +3,7 @@
 
 - 🔭 Interesses: Astrofísica computacional, Machine Learning & Data Science
 - 🪐 "Julgo possuir a combinação mais singular de qualidades perfeitamente adequadas para me tornar, eminentemente, uma descobridora das realidades ocultas da natureza."
-- 👩‍💻 #Womem in STEM
+- 👩‍💻 #Women in STEM
 
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=milhomemboonie&show_icons=true&theme=github_dark"/>
