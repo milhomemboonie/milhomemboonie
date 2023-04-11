@@ -6,8 +6,8 @@
 - 👩‍💻 #Women in STEM
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=milhomemboonie&show_icons=true&theme=github_dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milhomemboonie&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=milhomemboonie&show_icons=true&theme=midnight-purple"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milhomemboonie&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
   ##
