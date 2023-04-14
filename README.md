@@ -8,7 +8,9 @@
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=milhomemboonie&show_icons=true&theme=midnight-purple"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milhomemboonie&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img align="right" alt="Boonie-chibi" src="https://media.discordapp.net/attachments/1008571102328541215/1096523011181518978/ezgif.com-gif-maker.gif?width=150&height=150">
 </div>
+
 
   ##
  
