@@ -19,4 +19,6 @@
   <a href = "mailto:brunarm99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
     
-![snake gif](https://github.com/brunamilhomem99/brunamilhomem99/blob/output/github-contribution-grid-snake.gif)
+  ##
+ 
+![Snake animation](https://github.com/brunamilhomem99/brunamilhomem99.github.io/blob/output/github-contribution-grid-snake.svg)
