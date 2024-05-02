@@ -2,7 +2,7 @@
 
 
 "Julgo possuir a combinação mais singular de qualidades perfeitamente adequadas para me tornar, eminentemente, uma descobridora das realidades ocultas da natureza." — Ada Lovelace
-- 🔭 Interesses: Astrofísica computacional, Machine Learning & Data Science
+- 🔭 Interesses: Machine/Deep learning
 - 👩‍💻 Women in STEM!
 
 <div>
